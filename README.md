@@ -4,4 +4,4 @@ calculator - simple claculator, where you can add / substratc / multiple or divi
 
 even-number - tells you, if choosen number is even
 
-rock-paper-scissors - a game of rock paper scissors
+rock-paper-scissors - a game of rock paper and scissors
